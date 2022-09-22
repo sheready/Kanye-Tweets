@@ -1,0 +1,11 @@
+body{
+    background-color: #caf0f8;
+    word-wrap: break-word;
+}
+#heading{
+   margin-top: 5%;
+   margin-left: 35%;
+   font-size: 50px;
+   color: #03045e;
+}
+
