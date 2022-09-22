@@ -1,5 +1,5 @@
 fetch("https://api.kanye.rest")
-    .then(function(response){
+    .then((response) => {
         // add a condition to check if the response is okay
         if(response.ok){
             return response.json();
